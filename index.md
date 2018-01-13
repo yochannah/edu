@@ -24,7 +24,7 @@ layout: front
             <h1 class="cover-heading" style="font-size:60px">Learn BioJS</h1>
             <p class="lead">Beautiful. Interactive. Reusable.</p>
             <p class="lead">
-              <a href="/101/intro" class="btn btn-lg btn-default" id="getStarted"><img src="{{ site.baseurl}}/img/logo.png" width="30px"> Get Started</a>
+              <a href="{{site.baseurl}}/101/intro" class="btn btn-lg btn-default" id="getStarted"><img src="{{ site.baseurl}}/img/logo.png" width="30px"> Get Started</a>
             </p>
             <!--
             <p class="lead">
