@@ -7,6 +7,7 @@ markdown: kramdown
 timezone: UTC
 encoding: utf-8
 exclude: [vendor]
+destination: docs
 baseurl: /
 series:
     "101":
