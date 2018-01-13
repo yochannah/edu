@@ -24,7 +24,7 @@ layout: front
             <h1 class="cover-heading" style="font-size:60px">Learn BioJS</h1>
             <p class="lead">Beautiful. Interactive. Reusable.</p>
             <p class="lead">
-              <a href="/101/intro" class="btn btn-lg btn-default" id="getStarted"><img src="/img/logo.png" width="30px"> Get Started</a>
+              <a href="/101/intro" class="btn btn-lg btn-default" id="getStarted"><img src="{{ site.baseurl}}/img/logo.png" width="30px"> Get Started</a>
             </p>
             <!--
             <p class="lead">
@@ -33,7 +33,7 @@ layout: front
             -->
           </div>
 
-          
+
 
           <div class="mastfoot">
             <div class="inner">
@@ -65,6 +65,4 @@ layout: front
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-
-
+<script src="{{ site.baseurl}}/js/bootstrap.min.js"></script>
